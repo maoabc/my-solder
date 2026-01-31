@@ -1,0 +1,6 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/maoabc/mysolder-firmware.git
+[submodule "scad"]
+	path = scad
+	url = https://github.com/maoabc/solder-scad.git
